@@ -1,0 +1,24 @@
+
+span{
+
+    color: darkgray;
+
+}
+.footer{
+    text-align: center;
+}
+.f1{
+
+display: inline-block;
+width: 75%;
+}
+.iteam{
+    display: inline-block;
+    width: 25%;
+}
+.f5{
+
+    
+    display: inline-block;
+    width: 80%;
+}
